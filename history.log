@@ -701,3 +701,4 @@
 2018-12-10T11:49:05 - Remove unused code
 2018-12-10T10:58:05 - Minor cleanup
 2018-12-11T17:46:59 - Add tests
+2018-12-11T16:17:29 - Fix bug in logic
